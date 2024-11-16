@@ -1,2 +1,2 @@
-# playing-with-rust
-I am simply playing with rust for fun
+## Learning Rust just for fun
+- It's going to be a long interesting journey
